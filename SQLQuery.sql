@@ -43,7 +43,7 @@ CREATE TABLE product (
 	inventory_id		int				foreign key references product_inventory(id),
 	price				decimal,
 	discount_id			int				foreign key references discount(id),
-	img_url			text,
+	image_url				text,
 	created_at			date,
 	modified_at			date,
 	deleted_at			date
