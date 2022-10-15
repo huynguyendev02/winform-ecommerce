@@ -43,6 +43,7 @@ CREATE TABLE product (
 	inventory_id		int				foreign key references product_inventory(id),
 	price				decimal,
 	discount_id			int				foreign key references discount(id),
+	img_url			text,
 	created_at			date,
 	modified_at			date,
 	deleted_at			date
@@ -153,13 +154,13 @@ values
 	('Đại hạ giá valentine','Hạ giá toàn bộ khi các cặp đôi đến mua vào ngày 14/2',0.12, 0),
 	('Giáng sinh rực rỡ', 'Đại hạ giá noel dành cho các thiết bị laptop trong ngày 24-26/12',0.20,0)
 
-insert into product (name_product,desc_product,category_id	,inventory_id,price,discount_id	)
+insert into product (name_product,desc_product,category_id,inventory_id,price,discount_id,image_url)
 values 
-	('Apple Iphone 14 Pro Max','Dòng Iphone mới nhất với dynamic island đến từ nhà Apple', 2, 1, 1299, null),
-	('Apple Macbook Pro 16inch', 'Laptop dành cho những người làm đồ hoạ, IT', 1,2,2999,null),
-	('Samsung Galaxy Tab S8 Ultra', 'Dòng tablet mới nhất, xịn nhất từ nhà Samsung', 3,3,1999,null),
-	('Máy lạnh Panasonic Inverter 1 HP CU/CS-XU9XKH-8', 'Máy lạnh Panasonic Inverter 1 HP CU/CS-XU9XKH-8 thiết kế màu trắng với phần vỏ làm bằng nhựa phủ một lớp nhám. Trên máy không có màn hình hiển thị nhiệt độ.',4,4,999,null),
-	('Củ sạc Xiaomi Mi Charger 20W Type-C', 'Bộ sạc nhanh Xiaomi Mi 20W Charger mà bạn đang theo dõi là giải pháp tối ưu để sạc nhanh cho các dòng smartphone thế hệ mới, sản phẩm có đầu ra 20W, cổng USB Type-C và đảm bảo an toàn cho người dùng nhờ cơ chế điều tiết dòng điện thông minh.', 5,5,12,null)
+	('Apple Iphone 14 Pro Max','Dòng Iphone mới nhất với dynamic island đến từ nhà Apple', 2, 1, 1299, null,null),
+	('Apple Macbook Pro 16inch', 'Laptop dành cho những người làm đồ hoạ, IT', 1,2,2999,null,null),
+	('Samsung Galaxy Tab S8 Ultra', 'Dòng tablet mới nhất, xịn nhất từ nhà Samsung', 3,3,1999,null,null),
+	('Máy lạnh Panasonic Inverter 1 HP CU/CS-XU9XKH-8', 'Máy lạnh Panasonic Inverter 1 HP CU/CS-XU9XKH-8 thiết kế màu trắng với phần vỏ làm bằng nhựa phủ một lớp nhám. Trên máy không có màn hình hiển thị nhiệt độ.',4,4,999,null,null),
+	('Củ sạc Xiaomi Mi Charger 20W Type-C', 'Bộ sạc nhanh Xiaomi Mi 20W Charger mà bạn đang theo dõi là giải pháp tối ưu để sạc nhanh cho các dòng smartphone thế hệ mới, sản phẩm có đầu ra 20W, cổng USB Type-C và đảm bảo an toàn cho người dùng nhờ cơ chế điều tiết dòng điện thông minh.', 5,5,12,null,null)
 
 insert into users(username,passwords,first_name,last_name,telephone)
 values
