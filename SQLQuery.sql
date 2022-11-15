@@ -1,13 +1,13 @@
-﻿CREATE DATABASE DatabaseDoAnCNTT
+CREATE DATABASE DatabaseEC
 GO
 
-USE DatabaseDoAnCNTT
+USE DatabaseEC
 GO
 
 CREATE TABLE product_category (
 	id				int	IDENTITY(1,1) primary key,
-	name_category	text,
-	desc_category	text,
+	name_category	NVARCHAR(MAX),
+	desc_category	NVARCHAR(MAX),
 	created_at		date,
 	modified_at		date,
 	deleted_at		date
@@ -25,8 +25,8 @@ GO
 
 CREATE TABLE discount (
 	id					int	IDENTITY(1,1) primary key,
-	name_discount		text,
-	desc_discount		text,
+	name_discount		NVARCHAR(MAX),
+	desc_discount		NVARCHAR(MAX),
 	discount_percent	decimal,
 	active				BIT,
 	created_at			date,
@@ -37,13 +37,13 @@ GO
 
 CREATE TABLE product (
 	id					int	IDENTITY(1,1) primary key,
-	name_product		text,
-	desc_product		text,
+	name_product		NVARCHAR(MAX),
+	desc_product		NVARCHAR(MAX),
 	category_id			int				foreign key references product_category(id),
 	inventory_id		int				foreign key references product_inventory(id),
 	price				decimal,
 	discount_id			int				foreign key references discount(id),
-	image_url				text,
+	image_url				NVARCHAR(MAX),
 	created_at			date,
 	modified_at			date,
 	deleted_at			date
@@ -54,10 +54,10 @@ GO
 
 CREATE TABLE users (
 	id					int	 IDENTITY(1,1) primary key,
-	username			nvarchar(50),
-	passwords			text,
-	first_name			text,
-	last_name			text,
+	username			nvarchar(MAX),
+	passwords			NVARCHAR(MAX),
+	first_name			NVARCHAR(MAX),
+	last_name			NVARCHAR(MAX),
 	telephone			int,
 	created_at			date,
 	modified_at			date
@@ -86,21 +86,21 @@ GO
 CREATE TABLE user_address (
 	id					int	IDENTITY(1,1) primary key,
 	users_id			int			foreign key references users(id),
-	address_line1		text,
-	address_line2		text,
-	city				text,
-	postal_code			text,
-	country				text,
-	telephone			text,
-	mobile				text
+	address_line1		NVARCHAR(MAX),
+	address_line2		NVARCHAR(MAX),
+	city				NVARCHAR(MAX),
+	postal_code			NVARCHAR(MAX),
+	country				NVARCHAR(MAX),
+	telephone			NVARCHAR(MAX),
+	mobile				NVARCHAR(MAX)
 )
 GO
 
 CREATE TABLE user_payment (
 	id					int	IDENTITY(1,1) primary key,
 	users_id			int			foreign key references users(id),
-	payment_type		text,
-	providers			text,
+	payment_type		NVARCHAR(MAX),
+	providers			NVARCHAR(MAX),
 	account_no			int,
 	expiry				date
 )
@@ -110,8 +110,8 @@ CREATE TABLE payment_details (
 	id					int	IDENTITY(1,1) primary key,
 	order_id			int,
 	amount				int,
-	providers			text,
-	statuss				text,
+	providers			NVARCHAR(MAX),
+	statuss				NVARCHAR(MAX),
 	created_at			date,
 	modified_at			date
 )
