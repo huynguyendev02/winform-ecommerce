@@ -185,3 +185,26 @@ insert into user_payment (
 	expiry)
 values 
 	(2,'Credit Card','VISA',1,'2026-11-11')
+go
+UPDATE product
+SET image_url = 'https://cdn.tgdd.vn/Products/Images/42/289702/iphone-14-pro-max-bac-thumb-600x600.jpg'
+WHERE id=1;
+go
+
+UPDATE product
+SET image_url = 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spacegray-select-202110?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1632788574000'
+WHERE id=2;
+go
+UPDATE product
+SET image_url = 'https://images.samsung.com/is/image/samsung/assets/vn/galaxy-tab-s8/feature/galaxy-tab-s8-ultra-graphite-kv-mo.jpg'
+WHERE id=3;
+go
+UPDATE product
+SET image_url = 'https://cdn01.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_24399/may-lanh-panaso_multi_0_49_450.png.webp'
+WHERE id=4;
+go
+UPDATE product
+SET image_url = 'https://cdn.tgdd.vn/Files/2020/11/03/1304338/xiaomi-ra-mat-cu-sac-20w-tuong-thich-voi-iphone-12-2.jpg'
+WHERE id=5;
+
+
