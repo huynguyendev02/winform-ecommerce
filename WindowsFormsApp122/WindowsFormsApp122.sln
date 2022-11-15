@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp122", "WindowsFormsApp122\WindowsFormsApp122.csproj", "{F5EF8792-B508-4FFC-815C-C245452B816F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAnCNTT", "WindowsFormsApp122\DoAnCNTT.csproj", "{F5EF8792-B508-4FFC-815C-C245452B816F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
