@@ -82,46 +82,37 @@ namespace WinFormsApp2
 
         private void btThemKhachHang_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new FormOfAdmin.KhachHang.ThemKhachHang());
         }
 
         private void btXoaKhachHang_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new FormOfAdmin.KhachHang.XoaKhachHang());
         }
 
         private void btSuaKhachHang_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new FormOfAdmin.KhachHang.SuaKhachHang());
         }
         private void btXoaSanPham_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new FormOfAdmin.SanPham.XoaSanPham());
         }
 
         private void btThemSanPham_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new FormOfAdmin.SanPham.ThemSanPham());
         }
 
         private void btChinhSuaSanPham_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new FormOfAdmin.SanPham.SuaSanPham());
         }
 
         private void btThemHoaDon_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new FormOfAdmin.HoaDon.ThemHoaDon());
         }
 
         private void btSuaHoaDon_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new FormOfAdmin.HoaDon.SuaHoaDon());
         }
 
         private void btXoaHoaDon_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new FormOfAdmin.HoaDon.XoaHoaDon());
         }
     }
 }

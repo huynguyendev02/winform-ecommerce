@@ -118,37 +118,52 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="iconHome" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iconHome.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iconShoppingCart" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iconShoppingCart.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="iconAccountOn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconAccountOn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LogoAppleWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LogoAppleWhite.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="iconAccount" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iconAccount.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iconSignOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iconSignOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="IconMyOrders" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\IconMyOrders.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iconDashboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iconDashboard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="iconAboutUsOn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconAboutUsOn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="iconAboutUs" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iconAboutUs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="iconShoppingCartOn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconShoppingCartOn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="iconInvoice" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iconInvoice.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="iconShoppingCartOff" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconShoppingCartOff.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconInvoiceOff" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconInvoiceOff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconAboutUsOff" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconAboutUsOff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconAccountOff" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconAccountOff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconInvoiceOn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconInvoiceOn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IconMyOrdersOn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IconMyOrdersOn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconDashboardOn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconDashboardOn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconDashboardOff" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconDashboardOff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Apple_logo_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Apple_logo_white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IconMyOrdersOff" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IconMyOrdersOff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconSignOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconSignOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

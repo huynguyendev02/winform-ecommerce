@@ -57,7 +57,6 @@ namespace WindowsFormsApp122
             this.lbDashboard = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.pnContent = new System.Windows.Forms.Panel();
             this.pnHeader = new System.Windows.Forms.Panel();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
@@ -142,6 +141,7 @@ namespace WindowsFormsApp122
             this.picSignOut.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picSignOut.TabIndex = 0;
             this.picSignOut.TabStop = false;
+            this.picSignOut.Click += new System.EventHandler(this.picSignOut_Click);
             // 
             // lbSignOut
             // 
@@ -169,13 +169,14 @@ namespace WindowsFormsApp122
             // 
             // picAboutUs
             // 
-            this.picAboutUs.Image = global::WindowsFormsApp122.Properties.Resources.iconAboutUs;
+            this.picAboutUs.Image = global::WindowsFormsApp122.Properties.Resources.iconAboutUsOff;
             this.picAboutUs.Location = new System.Drawing.Point(20, 8);
             this.picAboutUs.Name = "picAboutUs";
             this.picAboutUs.Size = new System.Drawing.Size(35, 35);
             this.picAboutUs.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picAboutUs.TabIndex = 0;
             this.picAboutUs.TabStop = false;
+            this.picAboutUs.Click += new System.EventHandler(this.picAboutUs_Click);
             // 
             // lbAboutUs
             // 
@@ -203,13 +204,14 @@ namespace WindowsFormsApp122
             // 
             // picAccount
             // 
-            this.picAccount.Image = global::WindowsFormsApp122.Properties.Resources.iconAccount;
+            this.picAccount.Image = global::WindowsFormsApp122.Properties.Resources.iconAccountOff;
             this.picAccount.Location = new System.Drawing.Point(20, 8);
             this.picAccount.Name = "picAccount";
             this.picAccount.Size = new System.Drawing.Size(35, 35);
             this.picAccount.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picAccount.TabIndex = 0;
             this.picAccount.TabStop = false;
+            this.picAccount.Click += new System.EventHandler(this.picAccount_Click);
             // 
             // lbAccount
             // 
@@ -237,13 +239,14 @@ namespace WindowsFormsApp122
             // 
             // picInvoice
             // 
-            this.picInvoice.Image = global::WindowsFormsApp122.Properties.Resources.iconInvoice;
+            this.picInvoice.Image = global::WindowsFormsApp122.Properties.Resources.iconInvoiceOff;
             this.picInvoice.Location = new System.Drawing.Point(20, 8);
             this.picInvoice.Name = "picInvoice";
             this.picInvoice.Size = new System.Drawing.Size(35, 35);
             this.picInvoice.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picInvoice.TabIndex = 0;
             this.picInvoice.TabStop = false;
+            this.picInvoice.Click += new System.EventHandler(this.picInvoice_Click);
             // 
             // lbInvoice
             // 
@@ -271,13 +274,14 @@ namespace WindowsFormsApp122
             // 
             // picMyOrders
             // 
-            this.picMyOrders.Image = global::WindowsFormsApp122.Properties.Resources.IconMyOrders;
+            this.picMyOrders.Image = global::WindowsFormsApp122.Properties.Resources.IconMyOrdersOff;
             this.picMyOrders.Location = new System.Drawing.Point(20, 8);
             this.picMyOrders.Name = "picMyOrders";
             this.picMyOrders.Size = new System.Drawing.Size(35, 35);
             this.picMyOrders.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picMyOrders.TabIndex = 0;
             this.picMyOrders.TabStop = false;
+            this.picMyOrders.Click += new System.EventHandler(this.picMyOrders_Click);
             // 
             // lbMyOrders
             // 
@@ -305,13 +309,14 @@ namespace WindowsFormsApp122
             // 
             // picShoppingCart
             // 
-            this.picShoppingCart.Image = global::WindowsFormsApp122.Properties.Resources.iconShoppingCart;
+            this.picShoppingCart.Image = global::WindowsFormsApp122.Properties.Resources.iconShoppingCartOff;
             this.picShoppingCart.Location = new System.Drawing.Point(20, 8);
             this.picShoppingCart.Name = "picShoppingCart";
             this.picShoppingCart.Size = new System.Drawing.Size(35, 35);
             this.picShoppingCart.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picShoppingCart.TabIndex = 0;
             this.picShoppingCart.TabStop = false;
+            this.picShoppingCart.Click += new System.EventHandler(this.picShoppingCart_Click);
             // 
             // lbShoppingCart
             // 
@@ -340,7 +345,7 @@ namespace WindowsFormsApp122
             // 
             // picDashboard
             // 
-            this.picDashboard.Image = global::WindowsFormsApp122.Properties.Resources.iconDashboard;
+            this.picDashboard.Image = global::WindowsFormsApp122.Properties.Resources.iconDashboardOn;
             this.picDashboard.Location = new System.Drawing.Point(20, 8);
             this.picDashboard.Name = "picDashboard";
             this.picDashboard.Size = new System.Drawing.Size(35, 35);
@@ -382,13 +387,6 @@ namespace WindowsFormsApp122
             this.label2.Size = new System.Drawing.Size(54, 24);
             this.label2.TabIndex = 1;
             this.label2.Text = "Main";
-            // 
-            // pnContent
-            // 
-            this.pnContent.Location = new System.Drawing.Point(384, 108);
-            this.pnContent.Name = "pnContent";
-            this.pnContent.Size = new System.Drawing.Size(1154, 712);
-            this.pnContent.TabIndex = 1;
             // 
             // pnHeader
             // 
@@ -507,7 +505,6 @@ namespace WindowsFormsApp122
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1582, 853);
             this.Controls.Add(this.pnHeader);
-            this.Controls.Add(this.pnContent);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
@@ -575,7 +572,6 @@ namespace WindowsFormsApp122
         private PictureBox picSignOut;
         private Label lbSignOut;
         private PictureBox pictureBox1;
-        private Panel pnContent;
         private Panel pnHeader;
         private PictureBox pictureBox2;
         private Label label9;

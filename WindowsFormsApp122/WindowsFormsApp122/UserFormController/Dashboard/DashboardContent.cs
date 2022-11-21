@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using WindowsFormsApp122.FormFunction;
-using WinFormsApp2.FormOfNguoiDung.GioHang;
 
 namespace WindowsFormsApp122.UserFormController.Dashboard
 {

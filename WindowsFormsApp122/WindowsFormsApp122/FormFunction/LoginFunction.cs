@@ -19,7 +19,7 @@ namespace WindowsFormsApp122.FormFunction
                 {
                     if (id.First() == 1)
                         return 1;
-                    return 2;
+                    return id.First();
                 }
                 return 0;   
             }

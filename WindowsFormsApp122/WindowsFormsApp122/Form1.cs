@@ -23,6 +23,7 @@ namespace WinFormsApp2
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            tbUser.Focus();
         }
 
         private void tbUser_Leave(object sender, EventArgs e)
@@ -104,10 +105,12 @@ namespace WinFormsApp2
                     Form form = new Admin();
                     this.Hide();
                     form.Show();
-                }
-                if (LoginFunction.checkLoginCredential(tbUser.Text, tbPass.Text) == 2)
+                } else
+                
                 {
-                    Form form = new UserForm();
+                    Form form = new UserForm(this);
+                    this.Hide();
+
                     form.Show();
                     tbUser.Clear();
                     tbPass.Clear();

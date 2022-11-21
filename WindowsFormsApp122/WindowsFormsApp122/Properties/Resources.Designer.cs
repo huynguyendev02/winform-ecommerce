@@ -73,9 +73,9 @@ namespace WindowsFormsApp122.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap iconAboutUs {
+        internal static System.Drawing.Bitmap iconAboutUsOff {
             get {
-                object obj = ResourceManager.GetObject("iconAboutUs", resourceCulture);
+                object obj = ResourceManager.GetObject("iconAboutUsOff", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace WindowsFormsApp122.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap iconAccount {
+        internal static System.Drawing.Bitmap iconAboutUsOn {
             get {
-                object obj = ResourceManager.GetObject("iconAccount", resourceCulture);
+                object obj = ResourceManager.GetObject("iconAboutUsOn", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace WindowsFormsApp122.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap iconDashboard {
+        internal static System.Drawing.Bitmap iconAccountOff {
             get {
-                object obj = ResourceManager.GetObject("iconDashboard", resourceCulture);
+                object obj = ResourceManager.GetObject("iconAccountOff", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace WindowsFormsApp122.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap iconHome {
+        internal static System.Drawing.Bitmap iconAccountOn {
             get {
-                object obj = ResourceManager.GetObject("iconHome", resourceCulture);
+                object obj = ResourceManager.GetObject("iconAccountOn", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace WindowsFormsApp122.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap iconInvoice {
+        internal static System.Drawing.Bitmap iconDashboardOff {
             get {
-                object obj = ResourceManager.GetObject("iconInvoice", resourceCulture);
+                object obj = ResourceManager.GetObject("iconDashboardOff", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,9 +123,9 @@ namespace WindowsFormsApp122.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap IconMyOrders {
+        internal static System.Drawing.Bitmap iconDashboardOn {
             get {
-                object obj = ResourceManager.GetObject("IconMyOrders", resourceCulture);
+                object obj = ResourceManager.GetObject("iconDashboardOn", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,9 +133,59 @@ namespace WindowsFormsApp122.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap iconShoppingCart {
+        internal static System.Drawing.Bitmap iconInvoiceOff {
             get {
-                object obj = ResourceManager.GetObject("iconShoppingCart", resourceCulture);
+                object obj = ResourceManager.GetObject("iconInvoiceOff", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconInvoiceOn {
+            get {
+                object obj = ResourceManager.GetObject("iconInvoiceOn", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IconMyOrdersOff {
+            get {
+                object obj = ResourceManager.GetObject("IconMyOrdersOff", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IconMyOrdersOn {
+            get {
+                object obj = ResourceManager.GetObject("IconMyOrdersOn", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconShoppingCartOff {
+            get {
+                object obj = ResourceManager.GetObject("iconShoppingCartOff", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconShoppingCartOn {
+            get {
+                object obj = ResourceManager.GetObject("iconShoppingCartOn", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

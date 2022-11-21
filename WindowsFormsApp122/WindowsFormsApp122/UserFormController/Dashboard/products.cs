@@ -48,7 +48,7 @@ namespace WindowsFormsApp122.UserFormController.Dashboard
             labelCost.BackColor = Color.Transparent;
             labelDesc.BackColor = Color.Transparent;
             labelNew.BackColor = Color.Transparent;
-            labelName.Size = new Size(200, 50);
+            labelName.Size = new Size(500, 50);
             labelCost.Size = new Size(200, 50);
             labelDesc.Size = new Size(400, 100);
             labelNew.Size = new Size(200, 50);

@@ -81,121 +81,6 @@
     <Compile Include="FormFunction\ProductFunction.cs" />
     <Compile Include="FormFunction\RegisterFunction.cs" />
     <Compile Include="FormFunction\UserFunction.cs" />
-    <Compile Include="FormOfAdmin\HoaDon\SuaHoaDon.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfAdmin\HoaDon\SuaHoaDon.Designer.cs">
-      <DependentUpon>SuaHoaDon.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfAdmin\HoaDon\ThemHoaDon.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfAdmin\HoaDon\ThemHoaDon.Designer.cs">
-      <DependentUpon>ThemHoaDon.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfAdmin\HoaDon\XoaHoaDon.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfAdmin\HoaDon\XoaHoaDon.Designer.cs">
-      <DependentUpon>XoaHoaDon.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfAdmin\KhachHang\SuaKhachHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfAdmin\KhachHang\SuaKhachHang.Designer.cs">
-      <DependentUpon>SuaKhachHang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfAdmin\KhachHang\ThemKhachHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfAdmin\KhachHang\ThemKhachHang.Designer.cs">
-      <DependentUpon>ThemKhachHang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfAdmin\KhachHang\XoaKhachHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfAdmin\KhachHang\XoaKhachHang.Designer.cs">
-      <DependentUpon>XoaKhachHang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfAdmin\SanPham\SuaSanPham.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfAdmin\SanPham\SuaSanPham.Designer.cs">
-      <DependentUpon>SuaSanPham.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfAdmin\SanPham\ThemSanPham.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfAdmin\SanPham\ThemSanPham.Designer.cs">
-      <DependentUpon>ThemSanPham.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfAdmin\SanPham\XoaSanPham.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfAdmin\SanPham\XoaSanPham.Designer.cs">
-      <DependentUpon>XoaSanPham.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\GioHang\ChinhSuaGioHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\GioHang\ChinhSuaGioHang.Designer.cs">
-      <DependentUpon>ChinhSuaGioHang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\GioHang\class_item.cs" />
-    <Compile Include="FormOfNguoiDung\GioHang\Mua.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\GioHang\Mua.Designer.cs">
-      <DependentUpon>Mua.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\GioHang\ThanhToanGioHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\GioHang\ThanhToanGioHang.Designer.cs">
-      <DependentUpon>ThanhToanGioHang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\GioHang\ThemVaoGioHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\GioHang\ThemVaoGioHang.Designer.cs">
-      <DependentUpon>ThemVaoGioHang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\HoaDon\ChoXacNhan.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\HoaDon\ChoXacNhan.Designer.cs">
-      <DependentUpon>ChoXacNhan.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\HoaDon\DaGiao.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\HoaDon\DaGiao.Designer.cs">
-      <DependentUpon>DaGiao.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\HoaDon\DangGiao.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\HoaDon\DangGiao.Designer.cs">
-      <DependentUpon>DangGiao.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\ThongTin\SuaThongTIn.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\ThongTin\SuaThongTin.Designer.cs">
-      <DependentUpon>SuaThongTIn.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\ThongTin\ThemThongTin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\ThongTin\ThemThongTIn.Designer.cs">
-      <DependentUpon>ThemThongTin.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\ThongTin\XoaThongTIn.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOfNguoiDung\ThongTin\XoaThongTIn.Designer.cs">
-      <DependentUpon>XoaThongTIn.cs</DependentUpon>
-    </Compile>
     <Compile Include="Models\cart_item.cs" />
     <Compile Include="Models\DatabaseEC.cs" />
     <Compile Include="Models\discount.cs" />
@@ -254,63 +139,6 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormOfAdmin\HoaDon\SuaHoaDon.resx">
-      <DependentUpon>SuaHoaDon.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfAdmin\HoaDon\ThemHoaDon.resx">
-      <DependentUpon>ThemHoaDon.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfAdmin\HoaDon\XoaHoaDon.resx">
-      <DependentUpon>XoaHoaDon.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfAdmin\KhachHang\SuaKhachHang.resx">
-      <DependentUpon>SuaKhachHang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfAdmin\KhachHang\ThemKhachHang.resx">
-      <DependentUpon>ThemKhachHang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfAdmin\KhachHang\XoaKhachHang.resx">
-      <DependentUpon>XoaKhachHang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfAdmin\SanPham\SuaSanPham.resx">
-      <DependentUpon>SuaSanPham.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfAdmin\SanPham\ThemSanPham.resx">
-      <DependentUpon>ThemSanPham.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfAdmin\SanPham\XoaSanPham.resx">
-      <DependentUpon>XoaSanPham.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\GioHang\ChinhSuaGioHang.resx">
-      <DependentUpon>ChinhSuaGioHang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\GioHang\Mua.resx">
-      <DependentUpon>Mua.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\GioHang\ThanhToanGioHang.resx">
-      <DependentUpon>ThanhToanGioHang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\GioHang\ThemVaoGioHang.resx">
-      <DependentUpon>ThemVaoGioHang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\HoaDon\ChoXacNhan.resx">
-      <DependentUpon>ChoXacNhan.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\HoaDon\DaGiao.resx">
-      <DependentUpon>DaGiao.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\HoaDon\DangGiao.resx">
-      <DependentUpon>DangGiao.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\ThongTin\SuaThongTin.resx">
-      <DependentUpon>SuaThongTIn.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\ThongTin\ThemThongTIn.resx">
-      <DependentUpon>ThemThongTin.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOfNguoiDung\ThongTin\XoaThongTIn.resx">
-      <DependentUpon>XoaThongTIn.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include=".resx">
       <DependentUpon>.cs</DependentUpon>
     </EmbeddedResource>
@@ -352,34 +180,49 @@
     <Folder Include="Photos\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\iconHome.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\LogoAppleWhite.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\iconShoppingCart.jpg" />
+    <None Include="Resources\Apple_logo_white.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\iconAccount.png" />
+    <None Include="Resources\iconAccountOff.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\IconMyOrders.png" />
+    <None Include="Resources\iconAccountOn.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\iconInvoice.png" />
+    <None Include="Resources\iconDashboardOff.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\iconDashboard.png" />
+    <None Include="Resources\iconDashboardOn.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\iconAboutUs.png" />
+    <None Include="Resources\iconShoppingCartOff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconShoppingCartOn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconMyOrdersOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconMyOrdersOn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconInvoiceOn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconInvoiceOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconAboutUsOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconAboutUsOn.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\iconSignOut.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Apple_logo_white.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
