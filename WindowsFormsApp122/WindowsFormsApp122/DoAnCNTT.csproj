@@ -65,12 +65,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Admin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Admin.Designer.cs">
-      <DependentUpon>Admin.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Controllers\products.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -94,13 +89,6 @@
     <Compile Include="Models\user.cs" />
     <Compile Include="Models\user_address.cs" />
     <Compile Include="Models\user_payment.cs" />
-    <Compile Include=".cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include=".Designer.cs">
-      <DependentUpon>.cs</DependentUpon>
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -114,33 +102,14 @@
     <Compile Include="Register.Designer.cs">
       <DependentUpon>Register.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserForm.cs">
+    <Compile Include="UserForm\UserForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UserForm.Designer.cs">
+    <Compile Include="UserForm\UserForm.Designer.cs">
       <DependentUpon>UserForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserFormController\Dashboard\DashboardContent.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UserFormController\Dashboard\DashboardContent.Designer.cs">
-      <DependentUpon>DashboardContent.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UserFormController\Dashboard\DashboardHeader.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UserFormController\Dashboard\DashboardHeader.Designer.cs">
-      <DependentUpon>DashboardHeader.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UserFormController\Dashboard\products.cs" />
-    <EmbeddedResource Include="Admin.resx">
-      <DependentUpon>Admin.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include=".resx">
-      <DependentUpon>.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -150,14 +119,8 @@
     <EmbeddedResource Include="Register.resx">
       <DependentUpon>Register.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserForm.resx">
+    <EmbeddedResource Include="UserForm\UserForm.resx">
       <DependentUpon>UserForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UserFormController\Dashboard\DashboardContent.resx">
-      <DependentUpon>DashboardContent.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UserFormController\Dashboard\DashboardHeader.resx">
-      <DependentUpon>DashboardHeader.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -177,6 +140,7 @@
     <None Include="Resources\logo.png" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="AdminForm\" />
     <Folder Include="Photos\" />
   </ItemGroup>
   <ItemGroup>

@@ -102,9 +102,9 @@ namespace WinFormsApp2
                     MessageBox.Show("Invalid Credential, Please Corret", "Error");
                 if (LoginFunction.checkLoginCredential(tbUser.Text, tbPass.Text) == 1)
                 {
-                    Form form = new Admin();
+                    //Form form = new Admin();
                     this.Hide();
-                    form.Show();
+                    //form.Show();
                 } else
                 
                 {
