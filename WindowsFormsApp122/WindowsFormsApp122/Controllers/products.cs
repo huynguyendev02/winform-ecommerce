@@ -14,12 +14,13 @@ namespace WindowsFormsApp122.UserFormController.Dashboard
         private string itemName;
         private string itemCost;
         private string itemDesc;
-        private int count;
+        private int count,id;
         public products()
         {
         }
-        public products(PictureBox itemPic, string itemName, string itemCost, string itemDesc)
+        public products(PictureBox itemPic, string itemName, string itemCost, string itemDesc, int id)
         {
+            this.id = id;
             this.Pic = itemPic;
             this.ItemName = itemName;
             this.ItemCost = itemCost;

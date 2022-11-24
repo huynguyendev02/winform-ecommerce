@@ -14,10 +14,10 @@ namespace WindowsFormsApp122.FormFunction
             using (var context = new DatabaseEC())
             {
                 if (orderBy == 1)
-                    return context.products.Where(p => p.category_id == category).OrderBy(p => p.price).Select(p => new { p.name_product, p.image_url, p.price,p.desc_product }).ToList<dynamic>();
+                    return context.products.Where(p => p.category_id == category).OrderBy(p => p.price).Select(p => new { p.id, p.name_product, p.image_url, p.price,p.desc_product }).ToList<dynamic>();
                 if (orderBy == 2)
-                    return context.products.Where(p => p.category_id == category).OrderByDescending(p => p.price).Select(p => new { p.name_product, p.image_url, p.price, p.desc_product }).ToList<dynamic>();
-                return context.products.Where(p => p.category_id == category).Select(p => new { p.name_product, p.image_url, p.price , p.desc_product }).ToList<dynamic>();
+                    return context.products.Where(p => p.category_id == category).OrderByDescending(p => p.price).Select(p => new { p.id, p.name_product, p.image_url, p.price, p.desc_product }).ToList<dynamic>();
+                return context.products.Where(p => p.category_id == category).Select(p => new { p.name_product, p.image_url, p.price , p.desc_product, p.id }).ToList<dynamic>();
 
             }
         }
