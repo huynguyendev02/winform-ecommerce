@@ -72,9 +72,13 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormFunction\CartFunction.cs" />
+    <Compile Include="FormFunction\DiscountFunction.cs" />
     <Compile Include="FormFunction\LoginFunction.cs" />
+    <Compile Include="FormFunction\OrderFunction.cs" />
     <Compile Include="FormFunction\ProductFunction.cs" />
     <Compile Include="FormFunction\RegisterFunction.cs" />
+    <Compile Include="FormFunction\SessionFunction.cs" />
     <Compile Include="FormFunction\UserFunction.cs" />
     <Compile Include="Models\cart_item.cs" />
     <Compile Include="Models\DatabaseEC.cs" />
