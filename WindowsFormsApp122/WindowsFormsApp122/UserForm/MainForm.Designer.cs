@@ -2,7 +2,7 @@
 
 namespace WindowsFormsApp122
 {
-    partial class UserForm
+    partial class MainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -66,6 +66,7 @@ namespace WindowsFormsApp122
             this.label4 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pnDesign = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.pnSignOut.SuspendLayout();
@@ -498,18 +499,27 @@ namespace WindowsFormsApp122
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
-            // UserForm
+            // pnDesign
+            // 
+            this.pnDesign.Location = new System.Drawing.Point(384, 28);
+            this.pnDesign.Name = "pnDesign";
+            this.pnDesign.Size = new System.Drawing.Size(1154, 796);
+            this.pnDesign.TabIndex = 3;
+            this.pnDesign.Visible = false;
+            // 
+            // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1582, 853);
+            this.Controls.Add(this.pnDesign);
             this.Controls.Add(this.pnHeader);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "UserForm";
+            this.Name = "MainForm";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Load += new System.EventHandler(this.UserForm_Load);
@@ -581,5 +591,6 @@ namespace WindowsFormsApp122
         private Label label5;
         private Label label4;
         private Label label1;
+        private Panel pnDesign;
     }
 }

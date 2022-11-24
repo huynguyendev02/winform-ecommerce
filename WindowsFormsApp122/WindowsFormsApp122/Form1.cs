@@ -108,7 +108,7 @@ namespace WinFormsApp2
                 } else
                 
                 {
-                    Form form = new UserForm(this);
+                    Form form = new MainForm(this);
                     this.Hide();
 
                     form.Show();

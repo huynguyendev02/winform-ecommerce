@@ -16,9 +16,11 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
 
 namespace WindowsFormsApp122
 {
-    public partial class UserForm : Form
+    public partial class MainForm : Form
     {
         Form login;
+        Panel Dashboard = new Panel(), Cart = new Panel(), Orders = new Panel(), Invoices = new Panel(), Account = new Panel(), AboutUs = new Panel();
+        Panel[] allPanels;
         Panel[] panel;
 
         private void OpenPanel(int num)
@@ -30,29 +32,30 @@ namespace WindowsFormsApp122
             }    
         }
         
-        private static void turnOn(PictureBox pic, Label lb, Panel pn)
+        private static void turnOn(PictureBox pic, Label lb, Panel pn, Panel Content)
         {
             lb.ForeColor = Color.Black;
             pn.BackColor = Color.White;
-
+            Content.Visible = true;
             //pic.Image = invertPicture(new Bitmap(pic.Image));
         }
-        private static void panelUnClick(PictureBox pic, Label lb, Panel pn)
+        private static void panelUnClick(PictureBox pic, Label lb, Panel pn, Panel Content)
         {
             lb.ForeColor = Color.White; 
             pn.BackColor = Color.Black;
-            
+            Content.Visible = false;
+
             //pic.Image = invertPicture(new Bitmap(pic.Image));
         }
         private void panelClick(object sender, EventArgs e, int num)
         {
-            panelUnClick(picDashboard, lbDashboard, pnDashboard);
-            panelUnClick(picShoppingCart, lbShoppingCart, pnShoppingCart);
-            panelUnClick(picMyOrders, lbMyOrders, pnMyOrders);
-            panelUnClick(picInvoice, lbInvoice, pnInvoice);
-            panelUnClick(picAccount, lbAccount, pnAccount);
-            panelUnClick(picAboutUs, lbAboutUs, pnAboutUs);
-            panelUnClick(picSignOut, lbSignOut, pnSignOut);
+            panelUnClick(picDashboard, lbDashboard, pnDashboard, Dashboard);
+            panelUnClick(picShoppingCart, lbShoppingCart, pnShoppingCart, Cart);
+            panelUnClick(picMyOrders, lbMyOrders, pnMyOrders, Orders);
+            panelUnClick(picInvoice, lbInvoice, pnInvoice, Invoices);
+            panelUnClick(picAccount, lbAccount, pnAccount, Account);
+            panelUnClick(picAboutUs, lbAboutUs, pnAboutUs, AboutUs);
+            panelUnClick(picSignOut, lbSignOut, pnSignOut, AboutUs);
             this.picDashboard.Image = global::WindowsFormsApp122.Properties.Resources.iconDashboardOff;
             this.picShoppingCart.Image = global::WindowsFormsApp122.Properties.Resources.iconShoppingCartOff;
             this.picMyOrders.Image = global::WindowsFormsApp122.Properties.Resources.IconMyOrdersOff;
@@ -62,33 +65,33 @@ namespace WindowsFormsApp122
             switch (num)
             {
                 case 1:
-                    turnOn(picDashboard, lbDashboard, pnDashboard);
+                    turnOn(picDashboard, lbDashboard, pnDashboard, Dashboard);
                     this.picDashboard.Image = global::WindowsFormsApp122.Properties.Resources.iconDashboardOn;
                     break;
                 case 2:
-                    turnOn(picShoppingCart, lbShoppingCart, pnShoppingCart);
+                    turnOn(picShoppingCart, lbShoppingCart, pnShoppingCart, Cart);
                     this.picShoppingCart.Image = global::WindowsFormsApp122.Properties.Resources.iconShoppingCartOn;
                     break; 
                 case 3:
-                    turnOn(picMyOrders, lbMyOrders, pnMyOrders);
+                    turnOn(picMyOrders, lbMyOrders, pnMyOrders, Orders);
                     this.picMyOrders.Image = global::WindowsFormsApp122.Properties.Resources.IconMyOrdersOn;
                     break;                    
                 case 4:
-                    turnOn(picInvoice, lbInvoice, pnInvoice);
+                    turnOn(picInvoice, lbInvoice, pnInvoice, Invoices);
                     this.picInvoice.Image = global::WindowsFormsApp122.Properties.Resources.iconInvoiceOn;
                     break;                     
                 case 5:
-                    turnOn(picAccount, lbAccount, pnAccount);
+                    turnOn(picAccount, lbAccount, pnAccount, Account);
                     this.picAccount.Image = global::WindowsFormsApp122.Properties.Resources.iconAccountOn;
                     break;                    
                 case 6:
-                    turnOn(picAboutUs, lbAboutUs, pnAboutUs);
+                    turnOn(picAboutUs, lbAboutUs, pnAboutUs, AboutUs);
                     this.picAboutUs.Image = global::WindowsFormsApp122.Properties.Resources.iconAboutUsOn;
                     break;                  
                 default: break;
             }
         }
-        public UserForm(Form login)
+        public MainForm(Form login)
         {
             this.login=login;
             InitializeComponent();
@@ -147,43 +150,58 @@ namespace WindowsFormsApp122
 
         private void UserForm_Load(object sender, EventArgs e)
         {
-            panelClick(sender, e, 1);
-
-            Panel panel1 = new Panel();
-            Panel panel2 = new Panel();
-            Panel panel3 = new Panel();
-            Panel panel4 = new Panel();
-            Panel panel5 = new Panel();
-            Panel panel6 = new Panel();
-            Panel panel7 = new Panel();
-            Panel panel8 = new Panel();
-            panel = new Panel[]
+            
+            allPanels = new Panel[]
             {
-                panel1,panel2, panel3, panel4, panel5, panel6, panel7, panel8,
+                Dashboard, Cart, Orders, Invoices, Account, AboutUs
             };
-
-            for (int i = 0; i < 8; i++)
+            foreach(var pn in allPanels)
             {
-                this.Controls.Add(panel[i]);
-                panel[i].Size = new Size(866, 582);
-                panel[i].Location = new Point(288, 87);
-                panel[i].BackColor = Color.Transparent;
-                panel[i].AutoScroll = true;
-
-                var count = 1;
-                var product = ProductFunction.listProduct(i + 1, 0);
-                foreach (var p in product)
-                {
-                    PictureBox productPic = new PictureBox();
-                    productPic.LoadAsync(p.image_url);
-                    UserFormController.Dashboard.products products = new UserFormController.Dashboard.products(productPic, p.name_product.ToString(), p.price.ToString(), p.desc_product.ToString(), p.id);
-
-                    products.DrawProducts(panel[i], count++);
-
-                }
-                panel[i].Visible = false;
+                this.Controls.Add(pn);
+                pn.Location = pnDesign.Location;
+                pn.Size = pnDesign.Size;
+                pn.Visible = false;
             }
-            panel[0].Visible = true;
+            Dashboard.BackColor = Color.Red;
+            Cart.BackColor = Color.Blue;
+            Orders.BackColor = Color.Aqua;
+            //panelClick(sender, e, 1);
+
+            //Panel panel1 = new Panel();
+            //Panel panel2 = new Panel();
+            //Panel panel3 = new Panel();
+            //Panel panel4 = new Panel();
+            //Panel panel5 = new Panel();
+            //Panel panel6 = new Panel();
+            //Panel panel7 = new Panel();
+            //Panel panel8 = new Panel();
+            //panel = new Panel[]
+            //{
+            //    panel1,panel2, panel3, panel4, panel5, panel6, panel7, panel8,
+            //};
+
+            //for (int i = 0; i < 8; i++)
+            //{
+            //    this.Controls.Add(panel[i]);
+            //    panel[i].Size = new Size(866, 582);
+            //    panel[i].Location = new Point(288, 87);
+            //    panel[i].BackColor = Color.Transparent;
+            //    panel[i].AutoScroll = true;
+
+            //    var count = 1;
+            //    var product = ProductFunction.listProduct(i + 1, 0);
+            //    foreach (var p in product)
+            //    {
+            //        PictureBox productPic = new PictureBox();
+            //        productPic.LoadAsync(p.image_url);
+            //        UserFormController.Dashboard.products products = new UserFormController.Dashboard.products(productPic, p.name_product.ToString(), p.price.ToString(), p.desc_product.ToString(), p.id);
+
+            //        products.DrawProducts(panel[i], count++);
+
+            //    }
+            //    panel[i].Visible = false;
+            //}
+            //panel[0].Visible = true;
         }
 
         private void lbDashboard_Click(object sender, EventArgs e)

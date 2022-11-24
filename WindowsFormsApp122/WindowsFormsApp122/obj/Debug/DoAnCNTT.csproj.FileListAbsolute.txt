@@ -366,9 +366,9 @@ D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\D
 D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
 D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
 D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
-D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserForm.resources
 D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
 D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
 D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
 D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
 D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.MainForm.resources
