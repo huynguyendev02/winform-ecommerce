@@ -149,26 +149,28 @@ values
 
 insert into product_inventory (quantity)
 values
-	(1234),(1212),(3232),(2121),(1717),(1414)
+	(1234),(1212),(3232),(2121),(1717),(1414),(123),(5664),(2345),(5435),(5346),(8746),(234),(251),(654),(638)
 
 insert into product (name_product,desc_product,category_id,inventory_id,price,discount_id,image_url)
 values
 	('MacBook Air','Don’t take it lightly.', 1, 1, 9499, null,'https://iili.io/H9zWSFS.png'),
-	('MacBook Pro 13”', 'Pro anywhere.', 1,1,9999,null,'https://iili.io/H9zWZPV.png'),
+	('MacBook Pro 13”', 'Pro anywhere.', 1,1,9999,null,'https://iili.io/HFN7f87.png'),
 	('MacBook Pro 14” and 16”', 'Incredible power. Incredibly simple.', 1,1,15999,null,'https://iili.io/H9zXoRn.png'),
 	('iPad', 'Lovable. Drawable. Magical.',2,2,3499,null,'https://iili.io/H9zXDXf.png'),
-	('iPad Pro', 'Supercharged by M2', 2,2,6499,null,'https://iili.io/H9zh3mu.png'),
-    ('iPad mini', 'The full iPad experience designed to fit in one hand.',2,2,3999,null,'https://iili.io/H9zjBun.png'),
-    ('iPhone 14','Big and bigger.',3,3,9499,null,'https://iili.io/H9zjxnf.png'),
-    ('iPhone 14 Pro', 'Pro. Beyond.',3,3,12999,null,'https://iili.io/H9zjzG4.png'),
-    ('iPhone SE','Love the power. Love the price.',3,3,5999,null,'https://iili.io/H9zjAaS.png'),
-    ('Apple Watch Ultra', 'Adventure awaits.', 4,4,6399,null,'https://iili.io/H9zjYue.png'),
-    ('Apple Watch Series','A healthy leap ahead.',4,4,3199,null,'https://iili.io/H9zjE6Q.png'),
-    ('Apple Watch SE', 'A great deal to love.',4,4,1999,null,'https://iili.io/H9zjgSI.png'),
-    ('AirPods Pro', '2nd generation', 5,5,1849,null,'https://iili.io/H9zjDKl.png'),
-    ('AirPods Max','Personalized Spatial Audio with dynamic head tracking',5,5,4599,null,'https://freeimage.host/i/H9zwUsj'),
-    ('Apple Pencil (2nd generation)','Designed for iPad Pro and iPad Air',6,6,999,null,'https://iili.io/H9zwtzg.png'),
-    ('MagSafe Charger','Mix. Match. MagSafe.',6,6,299,null,'https://iili.io/H9zwpqv.png')
+	('iPad Pro', 'Supercharged by M2', 2,2,6499,null,'https://iili.io/HFN7vVf.png'),
+   	('iPad mini', 'The full iPad experience designed to fit in one hand.',2,2,3999,null,'https://iili.io/H9zjBun.png'),
+    	('iPhone 14','Big and bigger.',3,3,9499,null,'https://iili.io/H9zjxnf.png'),
+    	('iPhone 14 Pro', 'Pro. Beyond.',3,3,12999,null,'https://iili.io/H9zjzG4.png'),
+    	('iPhone SE','Love the power. Love the price.',3,3,5999,null,'https://iili.io/H9zjAaS.png'),
+    	('Apple Watch Ultra', 'Adventure awaits.', 4,4,6399,null,'https://iili.io/H9zjYue.png'),
+    	('Apple Watch Series','A healthy leap ahead.',4,4,3199,null,'https://iili.io/HFNle72.png'),
+    	('Apple Watch SE', 'A great deal to love.',4,4,1999,null,'https://iili.io/H9zjgSI.png'),
+    	('AirPods Pro', '2nd generation', 5,5,1849,null,'https://iili.io/H9zjDKl.png'),
+    	('AirPods Max','Personalized Spatial Audio with dynamic head tracking',5,5,4599,null,'https://iili.io/HFNcWcQ.png'),
+	('Apple TV 4K','The Apple experience. Cinematic in every sense.',6,6,229,null,'https://iili.io/HFN0nBs.png'),
+	('HomePod mini','Room-filling sound in every room.',6,6,99,null,'https://iili.io/HFN0cCu.png'),
+    	('Apple Pencil (2nd generation)','Designed for iPad Pro and iPad Air',7,6,999,null,'https://iili.io/HFNae44.png'),
+    	('MagSafe Charger','Mix. Match. MagSafe.',7,6,299,null,'https://iili.io/H9zwpqv.png')
 
 
 insert into users(username,passwords,first_name,last_name,telephone)
