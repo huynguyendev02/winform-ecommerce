@@ -1,0 +1,473 @@
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe.config
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.pdb
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.dll
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.xml
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.xml
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.AssemblyReference.cache
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.SuggestedBindingRedirects.cache
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Admin.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.SuaHoaDon.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.ThemHoaDon.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.XoaHoaDon.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.SuaKhachHang.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.ThemKhachHang.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.XoaKhachHang.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.SuaSanPham.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.ThemSanPham.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.XoaSanPham.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ChinhSuaGioHang.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.Mua.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ThanhToanGioHang.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ThemVaoGioHang.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.ChoXacNhan.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.DaGiao.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.DangGiao.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.SuaThongTin.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.ThemThongTIn.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.XoaThongTIn.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.NguoiDung.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
+C:\Work\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe.config
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.pdb
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.AssemblyReference.cache
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.SuggestedBindingRedirects.cache
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Admin.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.SuaHoaDon.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.ThemHoaDon.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.XoaHoaDon.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.SuaKhachHang.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.ThemKhachHang.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.XoaKhachHang.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.SuaSanPham.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.ThemSanPham.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.XoaSanPham.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ChinhSuaGioHang.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.Mua.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ThanhToanGioHang.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ThemVaoGioHang.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.ChoXacNhan.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.DaGiao.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.DangGiao.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.SuaThongTin.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.ThemThongTIn.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.XoaThongTIn.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.NguoiDung.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Drawing.v22.1.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe.config
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.pdb
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.dll
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.dll
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.xml
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.xml
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.AssemblyReference.cache
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.SuggestedBindingRedirects.cache
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Admin.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.SuaHoaDon.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.ThemHoaDon.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.XoaHoaDon.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.SuaKhachHang.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.ThemKhachHang.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.XoaKhachHang.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.SuaSanPham.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.ThemSanPham.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.XoaSanPham.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ChinhSuaGioHang.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.Mua.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ThanhToanGioHang.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ThemVaoGioHang.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.ChoXacNhan.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.DaGiao.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.DangGiao.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.SuaThongTin.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.ThemThongTIn.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.XoaThongTIn.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.NguoiDung.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
+C:\DoAnCNTT\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserForm.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserFormController.Dashboard.DashboardContent.resources
+E:\HK5\Đồ án\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserFormController.Dashboard.DashboardHeader.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe.config
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.pdb
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.AssemblyReference.cache
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.SuggestedBindingRedirects.cache
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Admin.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.SuaHoaDon.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.ThemHoaDon.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.HoaDon.XoaHoaDon.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.SuaKhachHang.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.ThemKhachHang.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.KhachHang.XoaKhachHang.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.SuaSanPham.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.ThemSanPham.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfAdmin.SanPham.XoaSanPham.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ChinhSuaGioHang.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.Mua.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ThanhToanGioHang.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.GioHang.ThemVaoGioHang.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.ChoXacNhan.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.DaGiao.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.HoaDon.DangGiao.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.SuaThongTin.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.ThemThongTIn.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.FormOfNguoiDung.ThongTin.XoaThongTIn.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.NguoiDung.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserForm.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserFormController.Dashboard.DashboardContent.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserFormController.Dashboard.DashboardHeader.resources
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
+C:\Users\huyng\Desktop\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe.config
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.pdb
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Drawing.v22.1.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.AssemblyReference.cache
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.SuggestedBindingRedirects.cache
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Admin.resources
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.NguoiDung.resources
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserForm.resources
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserFormController.Dashboard.DashboardContent.resources
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserFormController.Dashboard.DashboardHeader.resources
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
+E:\HK5\Đồ án\New\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe.config
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.pdb
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.AssemblyReference.cache
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.SuggestedBindingRedirects.cache
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Admin.resources
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.NguoiDung.resources
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserForm.resources
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserFormController.Dashboard.DashboardContent.resources
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.UserFormController.Dashboard.DashboardHeader.resources
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
+D:\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe.config
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.pdb
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.AssemblyReference.cache
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.SuggestedBindingRedirects.cache
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
+D:\Work\College\ProjectDoAn\doancntt\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.MainForm.resources
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe.config
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.pdb
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Drawing.v22.1.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.AssemblyReference.cache
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.SuggestedBindingRedirects.cache
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.MainForm.resources
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
+E:\HK5\Đồ án\New2\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe.config
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.exe
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\WindowsFormsApp122.pdb
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Data.v22.1.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.AssemblyReference.cache
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.SuggestedBindingRedirects.cache
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Form1.resources
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.Properties.Resources.resources
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WinFormsApp2.Register.resources
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.MainForm.resources
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.GenerateResource.cache
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CoreCompileInputs.cache
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\DoAnCNTT.csproj.CopyComplete
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.exe
+D:\Work\College\DoAnCNTTFinal\doancntt-main\WindowsFormsApp122\WindowsFormsApp122\obj\Debug\WindowsFormsApp122.pdb
