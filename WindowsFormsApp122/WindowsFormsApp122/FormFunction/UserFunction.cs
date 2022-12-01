@@ -79,7 +79,18 @@ namespace WindowsFormsApp122.FormFunction
         {
             using (var context = new DatabaseEC())
             {
-                var userAddress = context.user_address.Where(ua => ua.users_id == userId).First()   ;
+                var check = context.user_address.Where(ua => ua.users_id == userId).Any();
+                if (!check)
+                {
+                    var usaddr = new user_address
+                    {
+                        user = context.users.Find(userId)
+                    };
+                    context.user_address.Add(usaddr);
+                    context.SaveChanges();
+                }
+                var userAddress = context.user_address.Where(ua => ua.users_id == userId).First();
+
                 userAddress.address_line1=address_1;
                 userAddress.address_line2 = address_2;
                 userAddress.city=city; 

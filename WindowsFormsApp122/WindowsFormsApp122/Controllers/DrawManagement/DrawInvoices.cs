@@ -62,7 +62,7 @@ namespace WindowsFormsApp122.Controllers.DrawManagement
             buyDate.Size = new Size(150, 40);
             checkOutDate.Size = new Size(150,40);
             supplier.Size = new Size(130, 40);
-            status.Size = new Size(140, 40);
+            status.Size = new Size(120, 40);
             totalPrice.Size = new Size(80, 40);
 
             status.ForeColor = status.Text == "Complete" ? Color.Green : Color.Red;
