@@ -28,8 +28,14 @@ namespace WindowsFormsApp122.FormFunction
         {
             using (var context = new DatabaseEC())
             {
-                var queryUserAddress = context.user_address.Where(u => u.users_id == userId).First();
-                return queryUserAddress;
+                var check = context.user_address.Where(u => u.users_id == userId).Any();
+                if (check)
+                {
+                    var queryUserAddress = context.user_address.Where(u => u.users_id == userId).First();
+
+                    return queryUserAddress;
+                }
+                return null;
             }
         }
         public static List<user_payment> displayUserPaymentInfo(int userId)
